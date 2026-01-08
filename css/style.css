@@ -16,12 +16,9 @@ body {
     color: #fff;
     font-family: 'Inter', sans-serif;
     background-color: black;
-
-  font-family: "Inter", sans-serif;
-  background: linear-gradient(rgba(0, 0, 0, 0.99), rgba(0, 0, 0, 0.95)),
-    url("../images/bg/Bg2.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
+    font-family: "Inter", sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
@@ -236,6 +233,7 @@ a {
   color: #131e3a;
 }
 
+
 /* Best Section */
 
 .best__container {
@@ -268,6 +266,7 @@ a {
 .best__left .navbar__btn {
   padding: 16.5px 40px;
 }
+
 
 /* main2 */
 
